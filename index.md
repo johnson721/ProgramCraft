@@ -1,1 +1,1 @@
-[Play](https://johnson721.github.io/games/cubeIngine/)
+[Play](https://johnson721.github.io/ProgramCraft/cubeIngine/)
