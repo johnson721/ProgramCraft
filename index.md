@@ -1,7 +1,7 @@
 [Play](https://johnson721.github.io/ProgramCraft/cubeIngine/)
 
 
-System recommended requirements(frame 20 and up) : <br>
+System recommended requirements(frame 30 and up) : <br>
 MacOS : MacBook serirs other than Mac series(MacOS 10.15 and up)<br>
 PC : (Intel)i3-530 or (AMD)X4-9650 up and 512MB memory (Windows 7 and up)<br>
 iOS、iPadOS : device with iOS13 and iPadOS13 and up<br>
