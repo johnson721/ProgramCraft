@@ -1,13 +1,13 @@
 [Play](https://johnson721.github.io/ProgramCraft/cubeIngine/)
 
 
-平台及瀏覽器建議(能達20FPS及以上):<br>
-MacOS:建議使用非MacBook系列之Mac(MacOS 10.15及以上)<br>
-PC:建議(Intel)i3-530及(AMD)X4-9650以上且具備512MB記憶體(Windows 7及以上)<br>
-iOS、iPadOS:建議搭載iOS13及iPadOS13以上之設備<br>
-Android:建議Android9及以上之設備<br>
-Google Chrome:v83及以上(僅MacOS10.16之MacBook Pro及MacOS10.15之其他Mac系列可使用及iOS 13之蘋果設備，PC則無限制)<br>
-Safari:14.X.X以上(僅非MacBook系列之蘋果產品)<br>
-Firefox、Opera、IE、Edge:不支援<br>
+System recommended requirements(frame 20 and up) : <br>
+MacOS : MacBook serirs other than Mac series(MacOS 10.15 and up)<br>
+PC : (Intel)i3-530 or (AMD)X4-9650 up and 512MB memory (Windows 7 and up)<br>
+iOS、iPadOS : device with iOS13 and iPadOS13 and up<br>
+Android : device with Android9 and up<br>
+Google Chrome : v83 and up(Only MacBook Pro with MacOS10.16 and other Mac series with MacOS10.15 and device with iOS 13 and iPadOS 13 , PC by recommended requirements)<br>
+Safari : 14.X.X and up(Only non-MacBook series other than apple product)<br>
+Firefox、Opera、IE、Edge : No recommend<br>
 
 
